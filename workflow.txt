@@ -1,0 +1,1 @@
+o workflow escolhido será o centralizado, pois com esse fluxo, não é necessário gerenciar vários ramos de código.
